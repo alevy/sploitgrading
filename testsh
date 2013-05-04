@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mv /tmp/test /tmp/success
+
+exec /bin/dash
